@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. This is ku's GitHub
 
 <!--
 **ku-ocs/ku-ocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
