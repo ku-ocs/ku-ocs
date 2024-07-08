@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:FFFF00,50:00FF00,100:0000FF&height=300&section=header&text=hello,%20This%20is%20CS's%20GitHub%20&animation=fadeIn&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:AAAA00,50:00FF00,100:0000FF&height=300&section=header&text=hello,%20This%20is%20CS's%20GitHub%20&animation=fadeIn&fontSize=50)
 
 <!--
 **ku-ocs/ku-ocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
