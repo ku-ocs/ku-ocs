@@ -20,10 +20,3 @@
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 </div><br>
 
-
-## PORTFOLIO
-<div style="display:flex; flex-direction:row;">
-    <a href="">
-        <p>Java Spring으로 기존 사이트를 클론으로 제작한 사이트입니다. - 개인</p>
-    </a>
-</div>
