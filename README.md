@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:DFFFCD,50:90F9C4,100:39F3BB&height=300&section=header&text=hello,%20This%20is%20CS's%20GitHub%20&animation=fadeIn&fontSize=50)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ku-ocs&layout=compact)
 ## Front-end
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
