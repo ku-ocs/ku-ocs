@@ -85,10 +85,9 @@
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🔎 Stats </h2> 
   <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ku-ocs&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ku-ocs&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" /> 
-</p>
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ku-ocs&theme=tokyonight" />
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ku_ocs_94)](https://solved.ac/ku_ocs_94/)
 
